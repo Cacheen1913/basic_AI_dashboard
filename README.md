@@ -36,7 +36,11 @@ The response is displayed instantly in text form.
 The same text is converted to speech using a TTS engine and played in the dashboard.
 
 TECH STACK
+
 Python	Main programming language
+
 Streamlit	Dashboard & UI framework
+
 Generative AI API	Gemini for answering
+
 TTS Engine	Converts text responses into voice
